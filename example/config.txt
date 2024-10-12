@@ -1,0 +1,2 @@
+Prefix plugins/Kaiju2Krona/example/
+Plugin Kaiju2Krona inputfile parameters.krona.txt outputfile sars-cov-2_1krona.out
